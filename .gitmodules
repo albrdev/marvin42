@@ -1,0 +1,16 @@
+[submodule "modules"]
+	path = modules
+	url = git@github.com:albrdev/marvin42_modules.git
+	branch = master
+[submodule "cd"]
+	path = cd
+	url = git@github.com:albrdev/marvin42_cd.git
+	branch = master
+[submodule "td"]
+	path = td
+	url = git@github.com:albrdev/marvin42_td.git
+	branch = master
+[submodule "motor_control"]
+	path = motor_control
+	url = git@github.com:kefena/marvin42.git
+	branch = master

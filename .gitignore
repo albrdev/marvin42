@@ -5,5 +5,11 @@
 
 !*.[mM][dD]
 
-!marvin42-chirp/
-!marvin42-chirp/**/*
+!modules/
+!modules/**/*
+!cd/
+!cd/**/*
+!td/
+!td/**/*
+!motor_control/
+!motor_control/**/*
