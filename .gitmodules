@@ -14,3 +14,15 @@
 	path = motor_control
 	url = git@github.com:kefena/marvin42.git
 	branch = master
+[submodule "marvin42-rootconfigs"]
+	path = marvin42-rootconfigs
+	url = git@github.com:albrdev/marvin42-rootconfigs.git
+[submodule "marvin42-userconfigs"]
+	path = marvin42-userconfigs
+	url = git@github.com:albrdev/marvin42-userconfigs.git
+[submodule "ev3dev-rootconfigs"]
+	path = ev3dev-rootconfigs
+	url = git@github.com:albrdev/ev3dev-rootconfigs.git
+[submodule "ev3dev-userconfigs"]
+	path = ev3dev-userconfigs
+	url = git@github.com:albrdev/ev3dev-userconfigs.git

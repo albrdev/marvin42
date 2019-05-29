@@ -13,3 +13,13 @@
 !td/**/*
 !motor_control/
 !motor_control/**/*
+
+!marvin42-rootconfigs/
+!marvin42-rootconfigs/**/*
+!marvin42-userconfigs/
+!marvin42-userconfigs/**/*
+
+!ev3dev-rootconfigs/
+!ev3dev-rootconfigs/**/*
+!ev3dev-userconfigs/
+!ev3dev-userconfigs/**/*
