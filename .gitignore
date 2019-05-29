@@ -23,3 +23,6 @@
 !ev3dev-rootconfigs/**/*
 !ev3dev-userconfigs/
 !ev3dev-userconfigs/**/*
+
+!controller_app/
+!controller_app/**/*
