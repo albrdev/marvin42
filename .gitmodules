@@ -1,34 +1,50 @@
 [submodule "modules"]
 	path = modules
 	url = git@github.com:albrdev/marvin42_modules.git
+	url = https://github.com/albrdev/marvin42_modules.git
 	branch = master
 [submodule "cd"]
 	path = cd
 	url = git@github.com:albrdev/marvin42_cd.git
+	url = https://github.com/albrdev/marvin42_cd.git
 	branch = master
 [submodule "td"]
 	path = td
 	url = git@github.com:albrdev/marvin42_td.git
+	url = https://github.com/albrdev/marvin42_td.git
 	branch = master
 [submodule "motor_control"]
 	path = motor_control
 	url = git@github.com:kefena/marvin42.git
+	url = https://github.com/kefena/marvin42.git
 	branch = master
 [submodule "marvin42-rootconfigs"]
 	path = marvin42-rootconfigs
 	url = git@github.com:albrdev/marvin42-rootconfigs.git
+	url = https://github.com/albrdev/marvin42-rootconfigs.git
+	branch = master
 [submodule "marvin42-userconfigs"]
 	path = marvin42-userconfigs
 	url = git@github.com:albrdev/marvin42-userconfigs.git
+	url = https://github.com/albrdev/marvin42-userconfigs.git
+	branch = master
 [submodule "ev3dev-rootconfigs"]
 	path = ev3dev-rootconfigs
 	url = git@github.com:albrdev/ev3dev-rootconfigs.git
+	url = https://github.com/albrdev/ev3dev-rootconfigs.git
+	branch = master
 [submodule "ev3dev-userconfigs"]
 	path = ev3dev-userconfigs
 	url = git@github.com:albrdev/ev3dev-userconfigs.git
+	url = https://github.com/albrdev/ev3dev-userconfigs.git
+	branch = master
 [submodule "controller_app"]
 	path = controller_app
 	url = git@github.com:albrdev/marvin42_controller_app.git
+	url = https://github.com/albrdev/marvin42_controller_app.git
+	branch = master
 [submodule "chirp-wasm"]
 	path = chirp-wasm
 	url = git@github.com:jonasbits/marvin42-chirp-wasm.git
+	url = https://github.com/jonasbits/marvin42-chirp-wasm.git
+	branch = master
