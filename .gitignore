@@ -26,3 +26,6 @@
 
 !controller_app/
 !controller_app/**/*
+
+!chirp-wasm/
+!chirp-wasm/**/*

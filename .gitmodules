@@ -29,3 +29,6 @@
 [submodule "controller_app"]
 	path = controller_app
 	url = git@github.com:albrdev/marvin42_controller_app.git
+[submodule "chirp-wasm"]
+	path = chirp-wasm
+	url = git@github.com:jonasbits/marvin42-chirp-wasm.git
