@@ -26,3 +26,6 @@
 [submodule "ev3dev-userconfigs"]
 	path = ev3dev-userconfigs
 	url = git@github.com:albrdev/ev3dev-userconfigs.git
+[submodule "controller_app"]
+	path = controller_app
+	url = git@github.com:albrdev/marvin42_controller_app.git
