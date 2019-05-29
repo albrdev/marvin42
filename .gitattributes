@@ -1,4 +1,5 @@
 .gitignore text eol=lf
 .gitattributes text eol=lf
+.gitmodules text eol=lf
 *.[mM][dD] text eol=lf
 *.[tT][xX][tT] text eol=lf
