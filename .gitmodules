@@ -50,4 +50,6 @@
 	branch = master
 [submodule "docs"]
 	path = docs
+	url = git@github.com:jonasbits/marvin42-robot-docs.git
 	url = https://github.com/jonasbits/marvin42-robot-docs.git
+	branch = master
