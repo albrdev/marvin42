@@ -48,3 +48,6 @@
 	url = git@github.com:jonasbits/marvin42-chirp-wasm.git
 	url = https://github.com/jonasbits/marvin42-chirp-wasm.git
 	branch = master
+[submodule "docs"]
+	path = docs
+	url = https://github.com/jonasbits/marvin42-robot-docs.git

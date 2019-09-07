@@ -29,3 +29,6 @@
 
 !chirp-wasm/
 !chirp-wasm/**/*
+
+!docs/
+!docs/**/*
